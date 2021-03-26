@@ -1,17 +1,17 @@
 [
     {
-      "name": "Sal",
-      "email": "sal@hotmail.com",
-      "password": "password12345"
+      "postId": "1",
+      "title": "my first post",
+      "body": "Text goes here, bla bla bla, I have opinions and stuff"
     },
     {
-      "name": "Lernantino",
-      "email": "lernantino@gmail.com",
-      "password": "password12345"
+      "postId": "2",
+      "title": "my second post!",
+      "body": "stuff goes here"
     },
     {
-      "name": "Amiko",
-      "email": "amiko2k20@aol.com",
-      "password": "password12345"
+      "postId": "3",
+      "title": "my third post!",
+      "body": "blablalba"
     }
   ]
